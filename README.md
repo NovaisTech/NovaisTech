@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Eu sou Renato Novais, estudante de engenharia da computação pela Univesp <br><br>- 🔭 I’m working as helpdesk<br>- 📚 I'm currently learning Computer engineering<br>- ⚡ In my free time, I enjoy playing soccer and hitting the gym.</p>
+<p align="left">Eu sou Renato Novais, estudante de engenharia da computação pela Univesp <br><br> - 🔭 I'm currently working in IT Support<br>- 📚 I'm currently learning Computer engineering<br>- ⚡ In my free time, I enjoy playing soccer and hitting the gym.</p>
 
 ###
 
