@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Eu sou Renato Novais, estudante de engenharia da computação pela Univesp <br><br>- 🔭 I’m working as helpdesk<br>- 📚 I'm currently learning Computer engineering<br>- ⚡ In my free time I play soccer and go to the gym</p>
+<p align="left">Eu sou Renato Novais, estudante de engenharia da computação pela Univesp <br><br>- 🔭 I’m working as helpdesk<br>- 📚 I'm currently learning Computer engineering<br>- ⚡ In my free time, I enjoy playing soccer and hitting the gym.</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NovaisTech/NovaisTech/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NovaisTech/NovaisTech/output/snake.svg" alt="Snake animation" />
 
 ###
 
