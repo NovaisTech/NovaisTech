@@ -1,5 +1,5 @@
 
-<img align="center" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="center" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NovaisTech/NovaisTech/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NovaisTech/NovaisTech/output/snake.svg" alt="Snake animation"/>
 
 ###
 
