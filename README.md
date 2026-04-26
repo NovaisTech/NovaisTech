@@ -13,32 +13,21 @@
 
 <p align="left">Eu sou Renato Novais, estudante de engenharia da computação pela Univesp <br><br> - 🔭 I'm currently working in IT Support<br>- 📚 I'm currently learning Computer engineering<br>- ⚡ In my free time, I enjoy playing soccer and hitting the gym.</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠 Language and tools
 
 
-###
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40">  
 
-<div align="left">
 
-  
-  <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</div>
-</div>
 
 ###
+
+
 
 <img src="https://raw.githubusercontent.com/NovaisTech/NovaisTech/output/snake.svg" alt="Snake animation"/>
 
-###
+
 
 ### 🚀 Projetos em Destaque
 - 📅 **[MEIconecta](https://github.com/UnivespEstudante/MEIConecta):** Software acadêmico desenvolvido com framework web, banco de dados e versionamento no GitHub.
