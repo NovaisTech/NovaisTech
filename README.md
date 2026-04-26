@@ -31,5 +31,5 @@
 
 ### 🚀 Projetos em Destaque
 - 📅 **[MEIconecta](https://github.com/UnivespEstudante/MEIConecta):** Software acadêmico desenvolvido com framework web, banco de dados e versionamento no GitHub.
-- 🐍 **[Estudos Python Data Science](https://github.com/NovaisTech/estudos-python-data-science):** Repositório focado em análise de dados e MLOps.
+- 🐍 **[Estudos Python Data Science](https://github.com/NovaisTech/Introducao_Computacao_Perkovic):** Repositório focado em análise de dados e MLOps.
 
