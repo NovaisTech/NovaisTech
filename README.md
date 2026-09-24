@@ -32,5 +32,6 @@
 ### 🚀 Projetos em Destaque
 
 - 🐍 **[Estudos Python Data Science](https://github.com/NovaisTech/Introducao_Computacao_Perkovic):** Repositório focado em análise de dados e MLOps.
+- 📅 **[MEIconecta](https://github.com/UnivespEstudante/MEIConecta):** Software acadêmico desenvolvido com framework web, banco de dados e versionamento no GitHub.
 - 🎮 **[PyQuest (Oficina de Projetos)](https://github.com/NovaisTech/Projetos/tree/main/pyquest):** Jogo educativo retrô 16-bit desenvolvido em Python com backend FastAPI, banco de dados SQLite e interface Pixel Art, focado no aprendizado prático de programação e consumo de APIs REST.
 
